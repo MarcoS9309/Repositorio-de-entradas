@@ -1,11 +1,11 @@
-# Bienvenido
+# Welcome
 
-Este repositorio tiene como objetivo recopilar la mayoría de mis entradas o publicaciones. La idea es que sirva como un punto de partida para crear páginas web, compartir ideas o editar código de manera colaborativa.
+This repository aims to compile most of my entries or posts. The idea is that it serves as a starting point for creating web pages, sharing ideas, or collaboratively editing code.
 
-### Propósito del proyecto
+### Project Purpose
 
-Este proyecto ha sido creado con fines de divulgación, aprendizaje e innovación. Creo firmemente que compartir conocimiento es una forma poderosa de expresar ideas y fomentar la creatividad. Este espacio busca ser independiente, funcional y enriquecedor.
+This project was created for the purposes of dissemination, learning, and innovation. I firmly believe that sharing knowledge is a powerful way to express ideas and foster creativity. This space seeks to be independent, functional, and enriching.
 
-### Mi bitácora personal
+### My Personal Log
 
-Este repositorio es mi bitácora personal, un lugar donde plasmo pensamientos, aprendizajes y proyectos. 
+This repository is my personal log, a place where I capture thoughts, learnings, and projects.
