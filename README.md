@@ -8,4 +8,4 @@ Este proyecto ha sido creado con fines de divulgación, aprendizaje e innovació
 
 ### Mi bitácora personal
 
-Este repositorio es mi bitácora personal, un lugar donde plasmo pensamientos, aprendizajes y proyectos. Si estás leyendo esto, me alegra poder compartir contigo un poco de mi mundo. Espero que encuentres algo útil o inspirador aquí.
+Este repositorio es mi bitácora personal, un lugar donde plasmo pensamientos, aprendizajes y proyectos. 
