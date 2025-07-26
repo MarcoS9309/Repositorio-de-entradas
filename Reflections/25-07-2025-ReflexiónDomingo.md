@@ -13,7 +13,7 @@
 
 ---
 
-# Desarrollo
+## Desarrollo
 
 Durante esta semana, se han conmemorado memorias de santos que ejemplifican la perseverancia en la fe, tales como san Santiago Apóstol (25 de julio), un discípulo que, a pesar del rechazo y el martirio, mantuvo su creencia en Cristo como premisa fundamental. Esta conmemoración se alinea con la reflexión sobre la oración de Jesús: "Te doy gracias, Padre, Señor del cielo y de la tierra, porque has escondido estas cosas a los sabios y entendidos, y las has revelado a los pequeños" (Mateo 11:25). ***Este pasaje enfatiza la importancia de la humildad como patrón esencial para acercarse a Dios, facilitando la escucha y comprensión de su voluntad divina.***
 
@@ -25,7 +25,7 @@ Esto también resalta la importancia de la oración y la petición al Padre, com
 
 **En el Evangelio de Lucas**, Jesús enseña a sus discípulos a orar con el Padre Nuestro, una oración que encapsula la esencia de la relación entre Dios y la humanidad. Este modelo de oración no solo es una guía para la comunicación con Dios, sino también un recordatorio de la necesidad de confiar en su providencia y misericordia. La insistencia en la oración, como se muestra en la parábola del amigo insistente (Lucas 11:5-8), subraya que la perseverancia en la fe y la confianza en Dios son esenciales para recibir sus bendiciones.
 
-# Conclusión
+## Conlusión
 
 Abraham, en su rol como mediador de la justicia divina, nos guía y, al igual que el Evangelio, nos enseña que el Padre siempre espera con paciencia, incluso hasta el último. Independientemente de los contextos particulares, esta verdad nos insta a perseverar en la fe. Debemos reconocer que cada persona es nuestro hermano y prójimo, intercediendo por él con sinceridad. Así, al convertirnos en mediadores ante Dios, admitimos nuestras propias debilidades y oramos de corazón, fomentando una intercesión auténtica y humilde.
 
