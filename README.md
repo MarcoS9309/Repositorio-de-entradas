@@ -15,4 +15,6 @@ This project was created for the purposes of dissemination, learning, and innova
 
 ### My Personal Log
 
-This repository is my personal log, a place where I capture thoughts, learnings, and projects.
+- This repository is my personal log, a place where I capture thoughts, learnings, and projects.
+- Most of my repositories are currently in **Spanish** as part of my learning journey, but I plan to progressively create content in **English** as well.
+- This GitHub repository is created to store and manage my drafts before publishing them on my blogs, as well as to include some innovative proposals developed as tasks to organize my ideas and control various entries.
