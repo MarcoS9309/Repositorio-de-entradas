@@ -67,6 +67,12 @@
     <div id="respuesta"></div>
 
     <script>
+        /*
+          Bloque de lógica en JavaScript para escoger una fábula al azar
+          según el estado de ánimo del usuario y mostrarla en la página.
+        */
+
+        // Colección de fábulas clasificadas por estado de ánimo
         const fabulas = {
             bien: [
                 "El león y el ratón — Un día, un león dormía plácidamente cuando un pequeño ratón corrió sobre su cuerpo. El león lo atrapó con su enorme garra. El ratón suplicó por su vida y el león, condescendiente, lo dejó ir. Días después, el león fue atrapado en una red. El ratón, al escucharlo rugir, corrió y mordisqueó las cuerdas hasta liberarlo. Moraleja: Ningún acto de bondad es insignificante.",
@@ -94,6 +100,8 @@
             ]
         };
 
+        // Pequeñas actividades de autoexploración que se sugieren cuando
+        // el usuario indica que se siente "mal"
         const propuestas = [
             "Haz un monólogo imaginario: escribe lo que le dirías a tu 'yo interior' herido.",
             "Crea una miniobra de teatro: tú eres el protagonista que se reconcilia con su sombra.",
@@ -107,9 +115,14 @@
             "Representa en tu habitación una escena: tú reconociendo tu fuerza interior."
         ];
 
+        // Función que selecciona una fábula y una propuesta (opcional)
+        // dependiendo del estado de ánimo indicado por el usuario
         function mostrarFabula(estado) {
+            // Elegimos de manera aleatoria una fábula del grupo correspondiente
             const fabula = fabulas[estado][Math.floor(Math.random() * fabulas[estado].length)];
+            // Si el estado es "mal", también elegimos una propuesta al azar
             const propuesta = estado === 'mal' ? propuestas[Math.floor(Math.random() * propuestas.length)] : '';
+            // Construimos el HTML y lo insertamos en el contenedor de respuesta
             document.getElementById('respuesta').innerHTML = `
                 <div class="fabula">
                     <h2>Fábula del día:</h2>
