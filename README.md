@@ -1,5 +1,12 @@
 # Welcome
 
+## Bienvenida
+
+¡Hola! Este repositorio es un compendio de proyectos creativos, reflexiones y
+ejercicios. Encontrarás desde relatos breves hasta pequeños experimentos con
+código. Explora las carpetas y descubre ideas que quizás te inspiren a
+construir algo nuevo.
+
 This repository aims to compile most of my entries or posts. The idea is that it serves as a starting point for creating web pages, sharing ideas, or collaboratively editing code.
 
 ### Project Purpose
