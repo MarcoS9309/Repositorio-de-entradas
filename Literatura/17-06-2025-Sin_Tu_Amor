@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sin tu amor</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f4f1ea;
+            color: #4a4a4a;
+            line-height: 1.8;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5em;
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        p {
+            text-indent: 2em;
+            margin-bottom: 20px;
+        }
+        .highlight {
+            font-style: italic;
+            color: #8e44ad;
+        }
+        .quote {
+            font-size: 1.2em;
+            font-style: italic;
+            margin: 20px 0;
+            padding: 10px 20px;
+            background-color: #f9f9f9;
+            border-left: 4px solid #8e44ad;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sin tu amor</h1>
+        <p>En una ocasión escuché la canción <span class="highlight">“Sin tu amor”</span> (una de las que forma parte de mi playlist), y supe, en ese instante, que significaba algo más. No era la letra lo que me hablaba, sino el sonido. El sonar de los instrumentos tenía un código, una vibración distinta… como si cada nota, cada acorde, cada silencio, llevara un mensaje cifrado que solo puede entenderse si uno se detiene a sentir.</p>
+        
+        <p><strong>Corazón. Roca. Creer.</strong><br>
+        Pienso que para interpretar el arte, su sentido, su belleza y su estética, uno necesita un corazón capaz de resistir. Un corazón fuerte como una roca, pero sensible como un instrumento afinado. Porque no es fácil enfrentar los obstáculos de la vida, y menos aún detenerse a encontrar sentido en lo que a veces duele.</p>
+        
+        <p>La estética musical no es solo una “forma bonita”, es una forma de decir: estoy solo, estoy triste, pero aún tengo una ilusión. Y sí, cuando uno se siente solo y triste, puede surgir una ilusión. A veces real, a veces una fantasía que se disfraza de esperanza. Pero incluso esa ilusión es valiosa. Afecta nuestras emociones, nos mueve… nos recuerda que estamos vivos.</p>
+        
+        <p class="quote">En fin. Hay sonidos que no son sólo sonidos: son llamados. Ecos de un lenguaje anterior al lenguaje, que sólo se entienden con el cuerpo, con el temblor del espíritu. Es la premisa fundamental para crear el arte de vivir.</p>
+        
+        <p>Existe un antiguo relato que se repite en mil formas: el del héroe que, al oír un llamado, se ve arrancado de su mundo ordinario. Ese llamado profundo, marca el inicio de una travesía que no es lineal, sino dolorosa, llena de pruebas, renuncias y revelaciones.</p>
+        
+        <p>Compartiré un poema hecha para una clase. De hecho logré leer el libro de Joseph Campbell para escribirlo.</p>
+    </div>
+</body>
+</html>
