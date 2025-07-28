@@ -14,7 +14,7 @@ The main objective is to build a digital environment that facilitates artistic c
 
 ## Repository Structure
 
-### 📖 Creative Content Sections
+### Creative Content Sections
 
 #### `Daily/` - Daily Log
 Daily documentation of reflections, experiences, and personal progress in Markdown format. Each entry is dated and organized chronologically.
