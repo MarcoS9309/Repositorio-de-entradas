@@ -1,87 +1,87 @@
-# Repositorio de Entradas - Marco Vinicio
+# Repository of Entries - Marco Vinicio
 
-[![Estado de Construcción](https://img.shields.io/badge/estado-en%20desarrollo-yellow.svg)](https://github.com/MarcoS9309/Repositorio-de-entradas)
-[![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-activo-brightgreen.svg)](https://marcos9309.github.io/Repositorio-de-entradas/)
+[![Build Status](https://img.shields.io/badge/status-in%20development-yellow.svg)](https://github.com/MarcoS9309/Repositorio-de-entradas)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-active-brightgreen.svg)](https://marcos9309.github.io/Repositorio-de-entradas/)
 
-## Descripción del Proyecto
+## Project Description
 
-Este repositorio constituye un compendio digital de proyectos creativos, reflexiones personales y ejercicios de programación. Funciona como un laboratorio experimental donde convergen el arte digital, la escritura creativa y el desarrollo de software básico, todo orientado hacia la creación de contenido accesible y significativo.
+This repository constitutes a digital compendium of creative projects, personal reflections, and programming exercises. It functions as an experimental laboratory where digital art, creative writing, and basic software development converge, all oriented toward creating accessible and meaningful content.
 
-### Propósito Académico
+### Academic Purpose
 
-El objetivo principal es construir un entorno digital que facilite la creación artística tanto para el autor como para creadores con perspectivas similares. Mediante código Python sencillo y herramientas web básicas, se integran contenidos con arte digital generado, priorizando la experimentación personal sobre las convenciones tradicionales.
+The main objective is to build a digital environment that facilitates artistic creation for both the author and creators with similar perspectives. Through simple Python code and basic web tools, content is integrated with generated digital art, prioritizing personal experimentation over traditional conventions.
 
-## Estructura del Repositorio
+## Repository Structure
 
-### Secciones de Contenido Creativo
+### 📖 Creative Content Sections
 
-#### `Daily/` - Registro Diario
-Documentación cotidiana de reflexiones, experiencias y avances personales en formato Markdown. Cada entrada está fechada y organizada cronológicamente.
+#### `Daily/` - Daily Log
+Daily documentation of reflections, experiences, and personal progress in Markdown format. Each entry is dated and organized chronologically.
 
-**Archivos destacados:**
-- `24-07-2025-Casa.md` - Reflexiones sobre responsabilidades familiares y metas profesionales
-- `26-07-2025-Oportunidades.md` - Consideraciones sobre oportunidades académicas y desarrollo profesional
+**Featured files:**
+- `24-07-2025-Casa.md` - Reflections on family responsibilities and professional goals
+- `26-07-2025-Oportunidades.md` - Considerations about academic opportunities and professional development
 
-#### `Reflections/` - Reflexiones Temáticas
-Análisis profundos sobre temas específicos, incluyendo crítica literaria y ensayos reflexivos.
+#### `Reflections/` - Thematic Reflections
+In-depth analysis on specific topics, including literary criticism and reflective essays.
 
-**Contenido representativo:**
-- `25-07-2025-ReflexiónDomingo.md` - Crítica literaria y análisis bíblico
+**Representative content:**
+- `25-07-2025-ReflexiónDomingo.md` - Literary criticism and biblical analysis
 
-#### `Dreams/` - Registro Onírico
-Documentación de experiencias oníricas y su interpretación creativa.
+#### `Dreams/` - Dream Log
+Documentation of oneiric experiences and their creative interpretation.
 
-#### `Opinions/` - Artículos de Opinión
-Ensayos y reflexiones sobre temas diversos desde una perspectiva personal.
+#### `Opinions/` - Opinion Articles
+Essays and reflections on diverse topics from a personal perspective.
 
-#### `Trayectory/` - Trayectoria Profesional
-Documentación del desarrollo profesional y académico del autor.
+#### `Trayectory/` - Professional Trajectory
+Documentation of the author's professional and academic development.
 
-**Archivo principal:**
-- `27-07-2025-Profesional.html` - Narrativa autobiográfica sobre formación educativa y experiencias formativas
+**Main file:**
+- `27-07-2025-Profesional.html` - Autobiographical narrative about educational formation and formative experiences
 
-### Proyectos de Desarrollo
+### Development Projects
 
-#### `EjerciciosJS/` - Ejercicios JavaScript
-Pequeños proyectos interactivos desarrollados en JavaScript para experimentación creativa.
+#### `EjerciciosJS/` - JavaScript Exercises
+Small interactive projects developed in JavaScript for creative experimentation.
 
-**Proyecto destacado:**
-- `24-07-2025-js1/` - **Microrelato Interactivo: "La última página"**
-  - `index.html` - Estructura web básica
-  - `script.js` - Lógica de interacción
-  - `README.md` - Documentación del proyecto
+**Featured project:**
+- `24-07-2025-js1/` - **Interactive Micro-story: "The Last Page"**
+  - `index.html` - Basic web structure
+  - `script.js` - Interaction logic
+  - `README.md` - Project documentation
 
-#### `TareaS/` - Tareas y Ejercicios Académicos
-Trabajos académicos y ejercicios de aprendizaje organizados por fecha.
+#### `TareaS/` - Tasks and Academic Exercises
+Academic work and learning exercises organized by date.
 
-**Contenido principal:**
-- `26-07-2025-Chakana3D/Ejercicio-SintaxisIA/` - Protocolo de investigación en artes y humanidades
+**Main content:**
+- `26-07-2025-Chakana3D/Ejercicio-SintaxisIA/` - Research protocol in arts and humanities
 
-#### `Projects/` - Proyectos Especializados
-Desarrollos específicos con mayor envergadura y complejidad.
+#### `Projects/` - Specialized Projects
+Specific developments with greater scope and complexity.
 
-**Proyecto principal:**
-- `FabulasEmocionales/` - Aplicación interactiva que presenta fábulas basadas en el estado emocional del usuario
+**Main project:**
+- `FabulasEmocionales/` - Interactive application that presents fables based on the user's emotional state
 
-### Proyectos Comunitarios
+### Community Projects
 
-#### `Señor-deJRS-proyecto/` - Proyecto Jerusalén
-Desarrollo de una página web comunitaria para la parroquia de Jerusalén, enfocada en la difusión cultural, histórica y religiosa de la comunidad.
+#### `Señor-deJRS-proyecto/` - Jerusalem Project
+Development of a community website for the Jerusalem parish, focused on cultural, historical, and religious dissemination of the community.
 
-## Metodología de Desarrollo
+## Development Methodology
 
-### Principios Técnicos
+### Technical Principles
 
-1. **Simplicidad**: Todo el código está diseñado para ser intuitivo y editable
-2. **Accesibilidad**: Las herramientas utilizadas son básicas y ampliamente disponibles
-3. **Modularidad**: Cada proyecto mantiene su propia estructura y documentación
-4. **Experimentación**: Prioridad en la exploración creativa sobre la optimización técnica
+1. **Simplicity**: All code is designed to be intuitive and editable
+2. **Accessibility**: The tools used are basic and widely available
+3. **Modularity**: Each project maintains its own structure and documentation
+4. **Experimentation**: Priority on creative exploration over technical optimization
 
-### Tecnologías Utilizadas
+### Technologies Used
 
-- **Lenguajes**: HTML5, CSS3, JavaScript (ES6+), Python
-- **Documentación**: Markdown
-- **Control de Versiones**: Git/GitHub
-- **Automatización**: GitHub Actions (Jekyll)
-- **Despliegue**: GitHub Pages
+- **Languages**: HTML5, CSS3, JavaScript (ES6+), Python
+- **Documentation**: Markdown
+- **Version Control**: Git/GitHub
+- **Automation**: GitHub Actions (Jekyll)
+- **Deployment**: GitHub Pages
