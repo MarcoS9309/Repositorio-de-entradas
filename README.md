@@ -1,7 +1,8 @@
 # Repository of Entries - Marco Vinicio
 
-[![Build Status](https://img.shields.io/badge/status-in%20development-yellow.svg)](https://github.com/MarcoS9309/Repositorio-de-entradas)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/MarcoS9309/Repositorio-de-entradas/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/MarcoS9309/Repositorio-de-entradas/actions/workflows/jekyll-docker.yml)
+[![Coverage](https://img.shields.io/badge/coverage-0%25-red.svg)](https://github.com/MarcoS9309/Repositorio-de-entradas)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-active-brightgreen.svg)](https://marcos9309.github.io/Repositorio-de-entradas/)
 
 ## Project Description
