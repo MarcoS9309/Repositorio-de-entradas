@@ -30,5 +30,5 @@ Se presenta ideas para la creacion de trabajos de investigaciòn o de titulació
 - GitHub  
 - Blogs independientes  
 - Repositorios de juegos
-- Juegos como Educaplay 
+- Juegos como Educaplay
 - Padlet  
