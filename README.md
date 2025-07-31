@@ -86,3 +86,7 @@ Development of a community website for the Jerusalem parish, focused on cultural
 - **Version Control**: Git/GitHub
 - **Automation**: GitHub Actions (Jekyll)
 - **Deployment**: GitHub Pages
+
+## Repository Maintenance
+
+This repository now includes a `.gitignore` file to avoid committing operating system files like `.DS_Store` and other temporary artifacts. Keeping these files out of version control helps maintain a clean history and ensures cross-platform compatibility.
