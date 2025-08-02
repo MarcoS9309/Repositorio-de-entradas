@@ -1,14 +1,37 @@
 # Ignore system files
 .DS_Store
 **/.DS_Store
+Thumbs.db
+Desktop.ini
 
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+*.so
 
 # Node modules
 node_modules/
+npm-debug.log*
 
 # Logs
 *.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 
